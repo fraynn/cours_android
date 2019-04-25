@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">FirstApp</string>
+    <string name="greeting">Hello</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+    <string name="cancel">Cancel</string>
+    <string name="validate">Validate</string>
+    <string name="name">Name</string>
+    <string name="textViewName">Complement</string>
+    <string name="nextPage">Next</string>
+    <string name="go_back">Go Back</string>
+    <string name="title_activity_service_ex" translatable="false">ServiceExActivity</string>
+    <string name="stop">STOP</string>
+    <string name="start">START</string>
+    <string name="_15_sec">15 Sec</string>
+    <string name="now">Now !</string>
+    <string name="add">Add</string>
+    <string name="tvEleveName">tvEleveName</string>
+    <string name="tvEleveFirstname">tvEleveFirstname</string>
+    <string name="load">Load</string>
+    <string name="urlPlaceholder">https://www.google.fr</string>
+    <string name="search">Search</string>
+    <string name="code_postal_hint">Code Postal</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

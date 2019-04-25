@@ -1,0 +1,22 @@
+<resources>
+    <string name="greeting">Bonjour</string>
+    <string name="like">J\'aime</string>
+    <string name="dislike">J\'aime pas</string>
+    <string name="validate">Valider</string>
+    <string name="cancel">Annuler</string>
+    <string name="name">Nom</string>
+    <string name="textViewName">Complément</string>
+    <string name="nextPage">Suivant</string>
+    <string name="go_back">Retour</string>
+    <string name="stop">STOP</string>
+    <string name="start">START</string>
+    <string name="_15_sec">15 Sec</string>
+    <string name="now">Maintenant !</string>
+    <string name="add">Ajouter</string>
+    <string name="tvEleveFirstname">tvEleveFirstname</string>
+    <string name="tvEleveName">tvEleveName</string>
+    <string name="load">Charger</string>
+    <string name="urlPlaceholder">https://www.google.fr</string>
+    <string name="search">Search</string>
+    <string name="code_postal_hint">Code Postal</string>
+</resources>
